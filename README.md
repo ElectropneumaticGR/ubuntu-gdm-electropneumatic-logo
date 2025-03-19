@@ -1,1 +1,1 @@
-# gdm-electropneumatic
+# ubuntu-gdm-electropneumatic-logo
